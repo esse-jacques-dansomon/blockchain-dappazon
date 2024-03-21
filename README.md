@@ -12,7 +12,7 @@ This template uses following versions
 1. Clone this repository 
 
 ```shell
-git clone git@github.com:essejacquesdansomon/blockchain-dappazon.git
+git clone git@github.com:esse-jacques-dansomon/blockchain-dappazon.git
 ```
 
 2. Install dependencies
